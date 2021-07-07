@@ -1,4 +1,4 @@
 # kMeansClustering
 
 
-Segmentation of customers
+- Segmentation of customers
